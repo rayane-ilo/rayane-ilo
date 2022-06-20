@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @rayane-ilo (Rayane)
-- 👀 I’m interested in IT and Data
-- 🌱 I’m currently learning Data Science
-
 # 💫About Me :
 - Hi 👋, I'm Rayane
 A Dev and Data Analyst from France.
