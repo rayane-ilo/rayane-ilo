@@ -68,7 +68,4 @@ Data Quality Manager | Paris 🇫🇷
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rayane-ilo&theme=dark&hide_border=true&background=0d1117)
 
-![Rayane's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayane-ilo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-ilo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8)
 
